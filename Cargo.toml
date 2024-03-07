@@ -2,6 +2,9 @@
 name = "to_table"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "for DomCom, add sort by field to struct"
+repository = "https://github.com/tascord/to_table"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
